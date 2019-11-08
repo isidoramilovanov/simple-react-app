@@ -1,5 +1,5 @@
 ## simple-react-app
-Basic react app, show some users and filters them. 
+Basic react app, shows some users and filters them. 
 
 ### **Stack:**
 Languages: HTML5, CSS3, JavaScript (ES6)
